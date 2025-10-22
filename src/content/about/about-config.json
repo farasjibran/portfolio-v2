@@ -2,31 +2,18 @@
     "educations": [
         {
             "id": "edu-1",
-            "school": "Indiana University",
-            "degree": "Master of Science in Computer Science",
-            "duration": "Aug 2019 - May 2021",
-            "content": [
-                "GPA: 4/4",
-                "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
-            ]
-        },
-        {
-            "id": "edu-2",
-            "school": "Manipal University",
-            "degree": "Bachelors in Computer Engineering",
-            "duration": "Aug 2015 - Jul 2019",
-            "content": [
-                "GPA: 8/10",
-                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
-            ]
+            "school": "Indonesia Open University",
+            "degree": "Bachelor's Degree in Information Systems",
+            "duration": "Sep 2022 - Present",
+            "content": ["GPA: 3.09"]
         }
     ],
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Reputation",
+            "company": "Informatika Media Pratama",
             "position": "Software Engineer (Frontend)",
-            "duration": "Jun 2020 - Jun 2021",
+            "duration": "Oct 2021 - Present",
             "description": [
                 "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
                 "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
@@ -35,9 +22,9 @@
         },
         {
             "id": "exp-2",
-            "company": "CNS (NIH), Indiana University",
-            "position": "Software Engineer",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "Informatika Media Pratama",
+            "position": "Lead Engineer",
+            "duration": "Nov 2022 - Nov 2023",
             "description": [
                 "Developed state of the art visualization tools for researchers and doctors to envision large biological datasets using ​Angular 11​, Node & Vega.​",
                 "Devised an algorithm to compute statistics that highlight anomalies in the data and displayed them on an intuitive interface.",
@@ -46,9 +33,9 @@
         },
         {
             "id": "exp-3",
-            "company": "Skylark Drones",
-            "position": "Software Engineer Intern",
-            "duration": "Jan 2019 - Jun 2019",
+            "company": "Rumah Coding Indonesia",
+            "position": "Freelance Trainer",
+            "duration": "Feb 2021 - Jun 2022",
             "description": [
                 "Developed a web app for mission planning, control and execution using Vue & Flask, thereby improving onside project performance by 22%.​",
                 "Designed an icon set for various functionalities using ​Illustrator​, which improved usability by 20%."
@@ -58,55 +45,15 @@
     "skills": [
         {
             "title": "Programming",
-            "tools": [
-                "TypeScript",
-                "JavaScript",
-                "Python",
-                "C/C++",
-                "Java",
-                "NoSQL",
-                "SQL",
-                "Shell",
-                "React Native",
-                "Vega (D3.js)"
-            ]
+            "tools": ["TypeScript", "JavaScript", "Python", "Php", "SQL", "React Native"]
         },
         {
             "title": "Web",
-            "tools": ["React", "Angular 11", "Vue", "NodeJS", "Flask", "Redux", "NGXS", "HTML/CSS", "OAuth", "i18n"]
+            "tools": ["React", "Next", "Django", "Redux", "Laravel"]
         },
         {
             "title": "Databases",
             "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
-        },
-
-        {
-            "title": "OS & Tools",
-            "tools": ["MacOS", "Linux", "Git", "Agile (Scrum)", "MVC", "Jenkins", "Heroku", "Docker", "Kubernetes"]
-        },
-        {
-            "title": "Design & Research",
-            "tools": [
-                "Surveys",
-                "Interviews",
-                "User Research",
-                "Design Strategy",
-                "Experience Mapping",
-                "Adobe XD",
-                "Illustrator"
-            ]
-        }
-    ],
-    "blog": [
-        {
-            "id": "blog-1",
-            "title": "A beginner's guide to github",
-            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
-        },
-        {
-            "id": "blog-2",
-            "title": "User Experience Design – A little more than just design",
-            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
         }
     ]
 }

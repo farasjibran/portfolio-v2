@@ -1,64 +1,34 @@
 [
     {
-        "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
-        "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
+        "id": "featured-project-pintar",
+        "title": "PINTAR",
+        "year": "2022",
+        "location": "Jakarta",
+        "demo": "https://pintar.kemenag.go.id/",
+        "tags": ["React", "TypeScript"],
+        "description": "PINTAR (Pusat Informasi Pelatihan dan Pembelajaran) is a web application developed for the Kementerian Agama (KEMENAG). It functions as a digital learning platform, offering online training and knowledge resources to KEMENAG employees and the public. The application is built with a powerful technology combination, using React.js for a dynamic and responsive user interface and Laravel for its robust back-end and secure data management. PINTAR aims to facilitate accessible, self-paced learning and competency development for a wide range of users.",
+        "image": "/assets/featured-projects/pintar.webp",
+        "jpg": "/assets/featured-projects/pintar.jpeg"
     },
     {
-        "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
-        "year": "Jun 2020 - Jun 2021",
-        "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
-        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
+        "id": "featured-project-pusaka",
+        "title": "Pusaka Super Apps",
+        "year": "2023",
+        "location": "Jakarta",
+        "demo": "https://pusaka.kemenag.go.id/",
+        "tags": ["Next", "TypeScript", "Laravel", "PHP", "React Native", "Django"],
+        "description": "Developed a cross-platform mobile application (React Native) integrated with backend services (Django, Laravel, Next.js) for the Indonesian Ministry of Religious Affairs (KEMENAG), enhancing user engagement and streamlining access to religious services and information. The application significantly improved service delivery and user satisfaction.",
+        "image": "/assets/featured-projects/pusaka.webp",
+        "jpg": "/assets/featured-projects/pusaka.jpeg"
     },
     {
-        "id": "featured-project-scrapbook",
-        "title": "Scrapbook",
-        "year": "Jan 2021 - May 2021",
-        "location": "Indiana University",
-
-        "tags": [
-            "Angular 11",
-            "Flask",
-            "Node",
-            "Python",
-            "TypeScript",
-            "Docker",
-            "Docker Hub",
-            "Jenkins",
-            "Kubernetes",
-            "GKE",
-            "GCP"
-        ],
-        "demo": "http://34.69.102.109/",
-        "github": "https://github.com/hrishikeshpaul/scrapbook",
-        "description": "A micro-service architecture based web application that enables users to upload, share and manage images.",
-        "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
-        "image": "/assets/featured-projects/scrapbook.webp",
-        "jpg": "/assets/featured-projects/scrapbook.jpeg"
-    },
-    {
-        "id": "featured-project-measure-ux",
-        "location": "Indiana University",
-        "title": "Measuring User Experience",
-        "year": "Sep 2020 - Dec 2020",
-        "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
-        "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
-        "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
-        "image": "/assets/featured-projects/measure-ux.webp",
-        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+        "id": "featured-project-wms",
+        "title": "Waste Management System",
+        "year": "2025",
+        "location": "Jakarta",
+        "tags": ["Next", "TypeScript", "React Native"],
+        "description": "Developed a comprehensive waste management system for KEMENKES using Next.js, Node.js, and React Native, resulting in a streamlined web and mobile application for efficient waste tracking and management, improving operational efficiency and data analysis capabilities.",
+        "image": "/assets/featured-projects/wms.webp",
+        "jpg": "/assets/featured-projects/wms.jpeg"
     }
 ]

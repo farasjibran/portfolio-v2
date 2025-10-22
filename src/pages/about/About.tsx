@@ -3,7 +3,6 @@ import { FC } from "react";
 import { Box, Flex, Heading, Text, Image, Button, IconButton } from "@chakra-ui/react";
 
 import { configs, Content, MarkdownFile, useContent } from "shared/content/Content";
-import { Blog } from "pages/about/blog/Blog";
 import { Education } from "pages/about/education/Education";
 import { Experience } from "pages/about/experience/Experience";
 import { Skills } from "pages/about/skills/Skills";
@@ -67,9 +66,9 @@ export const About: FC = () => {
             <Box pt="16">
                 <Skills />
             </Box>
-            <Box pt="16">
+            {/*<Box pt="16">
                 <Blog />
-            </Box>
+            </Box>*/}
         </Box>
     );
 };

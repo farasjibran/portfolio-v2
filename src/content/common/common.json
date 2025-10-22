@@ -1,30 +1,30 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Muhammad Farras Jibran",
     "logoType": {
-        "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "mobile": "MFJ",
+        "desktop": "Muhammad Farras Jibran"
     },
-    "mainPicture": "/assets/HP.webp",
-    "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
+    "mainPicture": "/assets/mfj.webp",
+    "mainPictureJPG": "/assets/mfj.jpeg",
+    "pronunciation": "/Farrās/",
     "audioFile": "/assets/name-pro.mp3",
-    "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
-    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "cssVarPrefix": "mfj",
+    "email": "farasjibran@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/farrasjibran/",
+    "github": "https://github.com/farasjibran",
+    "resume": "https://drive.google.com/file/d/1DIhvoZ_ZxCmyg1swAzdxiCuwDGuiZvrv/view",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/farrasjibran/"
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/farasjibran"
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:farasjibran@gmail.com"
         }
     ]
 }

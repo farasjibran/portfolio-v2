@@ -2,8 +2,6 @@ import { FC } from "react";
 
 import { Box, Button, Container, Flex, HStack, useColorModeValue } from "@chakra-ui/react";
 
-import { configs } from "shared/content/Content";
-import { LogoType } from "shared/navbar/logo-type/LogoType";
 import { bgDark, bgLight } from "theme";
 import { onResumeOpen } from "utils/Functions";
 import { AboutPageId, useScroll, WorkPageId } from "utils/useScroll";
@@ -23,7 +21,7 @@ export const Navbar: FC = () => {
         <Box bg={bg} position="fixed" top="0" w="100%" left="50%" transform="translate(-50%)" zIndex="10">
             <Container py="4" px="4" data-aos="fade-down" data-aos-duration="500" data-aos-delay="100">
                 <Flex justifyContent="space-between" alignItems="center">
-                    <LogoType text={configs.common.logoType} />
+                    <Box></Box>
                     <Flex alignItems="center" display={{ base: "none", md: "flex" }}>
                         <HStack spacing="8" mr="6">
                             <Button

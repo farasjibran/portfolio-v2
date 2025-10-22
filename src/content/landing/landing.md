@@ -1,10 +1,9 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+Welcome 👋 I'm a _Software Engineer_ at [IMP Studio](https://impstudio.id/) based out of Jakarta Timur. I recently studied at Indonesia Open University with a Bachelor's degree in Information Systems. and I'm passionate about **Software Development** and **Artificial Intelligence**.
 
 I'm currently working with,
 
--   React (TS)
--   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
--   GraphQL
+- Next
+- React
+- React Native
+- Laravel
+- Django
