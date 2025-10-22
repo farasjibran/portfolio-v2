@@ -15,9 +15,13 @@
             "position": "Software Engineer (Frontend)",
             "duration": "Oct 2021 - Present",
             "description": [
-                "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
-                "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
-                "Spearheaded the work on multiple reports for 5 priority clients to provide additional functionalities."
+                "Engineered and maintained robust, scalable, and responsive user interfaces for web applications using modern technologies such as React.js, Redux, and TypeScript.",
+                "Collaborated effectively with UI/UX designers and backend developers to transform wireframes and mockups into pixel-perfect, interactive user experiences.",
+                "Optimized application performance by implementing efficient code, minimizing rendering times, and reducing load times, resulting in a smoother user experience.",
+                "Developed and documented reusable UI components and libraries, promoting code consistency and accelerating development cycles across multiple projects.",
+                "Integrated RESTful APIs to fetch and display dynamic data, ensuring seamless communication between the frontend and backend systems.",
+                "Utilized Git for version control, managing codebases, and collaborating with a team in an agile development environment. Wrote clean, well-structured, and testable code to ensure long-term maintainability and easier debugging.",
+                "Stayed current with emerging frontend technologies and best practices to introduce new tools and techniques that improved workflow and product quality."
             ]
         },
         {
@@ -26,9 +30,13 @@
             "position": "Lead Engineer",
             "duration": "Nov 2022 - Nov 2023",
             "description": [
-                "Developed state of the art visualization tools for researchers and doctors to envision large biological datasets using ​Angular 11​, Node & Vega.​",
-                "Devised an algorithm to compute statistics that highlight anomalies in the data and displayed them on an intuitive interface.",
-                "Created detailed UX flows, experience maps, wire-frames and conducted interviews across various biological consortia to enhance user experience."
+                "Spearheaded development of scalable web and mobile applications using React, React Native, and TypeScript, ensuring high-quality, responsive user interfaces.",
+                "Led and mentored a team of engineers, guiding them in TypeScript best practices and API integration, enhancing team productivity and code quality.",
+                "Optimized application performance by refactoring data-fetching hooks and navigation flows, reducing rendering times and improving user experience.",
+                "Collaborated with UI/UX designers and backend teams to deliver pixel-perfect, interactive interfaces with features like infinite scroll and real-time data validation.",
+                "Implemented stricter coding standards.",
+                "Integrated RESTful APIs and GraphQL endpoints for seamless data communication, ensuring reliable frontend-backend interactions.",
+                "Developed reusable UI components and libraries, promoting code consistency and accelerating feature development across projects."
             ]
         },
         {
@@ -37,8 +45,9 @@
             "position": "Freelance Trainer",
             "duration": "Feb 2021 - Jun 2022",
             "description": [
-                "Developed a web app for mission planning, control and execution using Vue & Flask, thereby improving onside project performance by 22%.​",
-                "Designed an icon set for various functionalities using ​Illustrator​, which improved usability by 20%."
+                "Instructed and mentored young learners in foundational web development skills, covering HTML, CSS, and JavaScript, fostering their interest and abilities in coding.",
+                "Developed and delivered a comprehensive curriculum for React.js, enabling students to learn and apply modern front-end development frameworks.",
+                "Taught and guided students through the fundamentals of back-end development using the Laravel framework, broadening their understanding of full-stack development."
             ]
         }
     ],
